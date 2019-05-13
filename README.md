@@ -12,8 +12,8 @@ Based on the hop database from [Samir Boulema](https://github.com/sboulema/Hops)
 
 2. Run the exporter (requires Python 3).
 
-        chmod +x hop-export.py
-        ./hop-export.py
+        chmod +x hop_export_full.py
+        ./hop_export_full.py
 
 The hop database is exported to `hops.json` in the root of the project.
 

@@ -1,0 +1,793 @@
+[
+  {
+    "Name": "Ahtanum",
+    "AlphaMax": 6.3,
+    "AlphaMin": 5.7,
+    "BetaMax": 6.5,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Amarillo",
+    "AlphaMax": 11.0,
+    "AlphaMin": 8.0,
+    "BetaMax": 7.0,
+    "BetaMin": 6.0
+  },
+  {
+    "Name": "Brewer's Gold (US)",
+    "AlphaMax": 10.0,
+    "AlphaMin": 8.0,
+    "BetaMax": 4.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Cascade",
+    "AlphaMax": 7.0,
+    "AlphaMin": 4.5,
+    "BetaMax": 7.0,
+    "BetaMin": 4.5
+  },
+  {
+    "Name": "Centennial",
+    "AlphaMax": 11.5,
+    "AlphaMin": 9.5,
+    "BetaMax": 4.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Chinook",
+    "AlphaMax": 14.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 4.0,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Citra",
+    "AlphaMax": 13.0,
+    "AlphaMin": 11.0,
+    "BetaMax": 4.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Cluster",
+    "AlphaMax": 8.5,
+    "AlphaMin": 5.5,
+    "BetaMax": 5.5,
+    "BetaMin": 4.5
+  },
+  {
+    "Name": "Columbus",
+    "AlphaMax": 16.0,
+    "AlphaMin": 14.0,
+    "BetaMax": 5.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Crystal",
+    "AlphaMax": 5.5,
+    "AlphaMin": 3.5,
+    "BetaMax": 6.7,
+    "BetaMin": 4.5
+  },
+  {
+    "Name": "Fuggle (US)",
+    "AlphaMax": 5.5,
+    "AlphaMin": 4.0,
+    "BetaMax": 2.0,
+    "BetaMin": 1.5
+  },
+  {
+    "Name": "Galena",
+    "AlphaMax": 14.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 9.0,
+    "BetaMin": 7.0
+  },
+  {
+    "Name": "Glacier",
+    "AlphaMax": 5.63,
+    "AlphaMin": 5.63,
+    "BetaMax": 7.6,
+    "BetaMin": 7.6
+  },
+  {
+    "Name": "Golding (US)",
+    "AlphaMax": 6.0,
+    "AlphaMin": 4.0,
+    "BetaMax": 3.0,
+    "BetaMin": 2.0
+  },
+  {
+    "Name": "Hallertau (US)",
+    "AlphaMax": 5.5,
+    "AlphaMin": 3.5,
+    "BetaMax": 5.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Horizon",
+    "AlphaMax": 13.0,
+    "AlphaMin": 11.0,
+    "BetaMax": 8.5,
+    "BetaMin": 6.5
+  },
+  {
+    "Name": "Liberty",
+    "AlphaMax": 5.0,
+    "AlphaMin": 3.0,
+    "BetaMax": 4.0,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Magnum (US)",
+    "AlphaMax": 14.0,
+    "AlphaMin": 10.0,
+    "BetaMax": 7.0,
+    "BetaMin": 4.5
+  },
+  {
+    "Name": "Millennium",
+    "AlphaMax": 16.5,
+    "AlphaMin": 14.5,
+    "BetaMax": 5.3,
+    "BetaMin": 4.3
+  },
+  {
+    "Name": "Mt. Hood",
+    "AlphaMax": 8.0,
+    "AlphaMin": 4.0,
+    "BetaMax": 7.5,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Mt. Rainier",
+    "AlphaMax": 8.1,
+    "AlphaMin": 5.0,
+    "BetaMax": 7.0,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Newport",
+    "AlphaMax": 17.0,
+    "AlphaMin": 13.5,
+    "BetaMax": 9.1,
+    "BetaMin": 7.2
+  },
+  {
+    "Name": "Northern Brewer (US)",
+    "AlphaMax": 10.0,
+    "AlphaMin": 8.0,
+    "BetaMax": 5.0,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Nugget",
+    "AlphaMax": 14.5,
+    "AlphaMin": 12.0,
+    "BetaMax": 6.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Palisade",
+    "AlphaMax": 9.5,
+    "AlphaMin": 5.5,
+    "BetaMax": 8.0,
+    "BetaMin": 6.0
+  },
+  {
+    "Name": "Perle (US)",
+    "AlphaMax": 9.5,
+    "AlphaMin": 7.0,
+    "BetaMax": 5.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Saaz (US)",
+    "AlphaMax": 4.5,
+    "AlphaMin": 3.0,
+    "BetaMax": 4.5,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Santiam",
+    "AlphaMax": 7.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 8.5,
+    "BetaMin": 6.0
+  },
+  {
+    "Name": "Simcoe",
+    "AlphaMax": 14.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 5.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Sorachi Ace",
+    "AlphaMax": 16.0,
+    "AlphaMin": 10.0,
+    "BetaMax": 7.0,
+    "BetaMin": 6.0
+  },
+  {
+    "Name": "Sterling",
+    "AlphaMax": 9.0,
+    "AlphaMin": 6.0,
+    "BetaMax": 6.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Summit",
+    "AlphaMax": 19.0,
+    "AlphaMin": 16.0,
+    "BetaMax": 6.0,
+    "BetaMin": 3.3
+  },
+  {
+    "Name": "Tettnang (US)",
+    "AlphaMax": 5.0,
+    "AlphaMin": 4.0,
+    "BetaMax": 4.5,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Vanguard",
+    "AlphaMax": 6.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 7.0,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Warrior",
+    "AlphaMax": 17.0,
+    "AlphaMin": 15.0,
+    "BetaMax": 5.5,
+    "BetaMin": 4.5
+  },
+  {
+    "Name": "Willamette",
+    "AlphaMax": 6.0,
+    "AlphaMin": 4.0,
+    "BetaMax": 4.5,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Pride of Ringwood (AU)",
+    "AlphaMax": 11.0,
+    "AlphaMin": 7.0,
+    "BetaMax": 6.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Saaz (CZ)",
+    "AlphaMax": 5.0,
+    "AlphaMin": 2.0,
+    "BetaMax": 8.0,
+    "BetaMin": 7.0
+  },
+  {
+    "Name": "Strisselspalt (FR)",
+    "AlphaMax": 5.0,
+    "AlphaMin": 3.0,
+    "BetaMax": 5.5,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Brewer's Gold (DE)",
+    "AlphaMax": 9.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 3.5,
+    "BetaMin": 2.5
+  },
+  {
+    "Name": "Hallertau Mittelfr\u00fch (DE)",
+    "AlphaMax": 5.5,
+    "AlphaMin": 3.0,
+    "BetaMax": 5.0,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Herkules (DE)",
+    "AlphaMax": 17.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 5.5,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Hersbrucker (DE)",
+    "AlphaMax": 5.0,
+    "AlphaMin": 2.0,
+    "BetaMax": 6.0,
+    "BetaMin": 2.5
+  },
+  {
+    "Name": "Magnum (DE)",
+    "AlphaMax": 16.0,
+    "AlphaMin": 11.0,
+    "BetaMax": 7.0,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Merkur (DE)",
+    "AlphaMax": 15.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 7.0,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Northern Brewer (DE)",
+    "AlphaMax": 10.0,
+    "AlphaMin": 7.0,
+    "BetaMax": 5.0,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Opal (DE)",
+    "AlphaMax": 8.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 5.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Perle (DE)",
+    "AlphaMax": 10.0,
+    "AlphaMin": 6.0,
+    "BetaMax": 5.0,
+    "BetaMin": 2.5
+  },
+  {
+    "Name": "Saphir (DE)",
+    "AlphaMax": 4.5,
+    "AlphaMin": 2.0,
+    "BetaMax": 7.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Spalter Select (DE)",
+    "AlphaMax": 6.5,
+    "AlphaMin": 3.0,
+    "BetaMax": 5.0,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Smaragd (DE)",
+    "AlphaMax": 6.0,
+    "AlphaMin": 4.0,
+    "BetaMax": 5.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Spalt (DE)",
+    "AlphaMax": 5.5,
+    "AlphaMin": 2.5,
+    "BetaMax": 5.0,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Taurus (DE)",
+    "AlphaMax": 17.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 6.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Tettnang (DE)",
+    "AlphaMax": 6.0,
+    "AlphaMin": 3.0,
+    "BetaMax": 5.0,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Tradition (DE)",
+    "AlphaMax": 7.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 5.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Cascade (NZ)",
+    "AlphaMax": 8.0,
+    "AlphaMin": 6.0,
+    "BetaMax": 5.5,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Wakatu (NZ)",
+    "AlphaMax": 8.5,
+    "AlphaMin": 6.5,
+    "BetaMax": 8.5,
+    "BetaMin": 8.5
+  },
+  {
+    "Name": "Motueka (NZ)",
+    "AlphaMax": 7.5,
+    "AlphaMin": 6.5,
+    "BetaMax": 5.5,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Nelson Sauvin (NZ)",
+    "AlphaMax": 13.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 8.0,
+    "BetaMin": 6.0
+  },
+  {
+    "Name": "Pacifica (NZ)",
+    "AlphaMax": 6.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 6.0,
+    "BetaMin": 6.0
+  },
+  {
+    "Name": "Pacific Gem (NZ)",
+    "AlphaMax": 15.0,
+    "AlphaMin": 13.0,
+    "BetaMax": 9.0,
+    "BetaMin": 7.0
+  },
+  {
+    "Name": "Riwaka (NZ)",
+    "AlphaMax": 6.5,
+    "AlphaMin": 4.5,
+    "BetaMax": 5.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Aurora (SI)",
+    "AlphaMax": 9.5,
+    "AlphaMin": 7.0,
+    "BetaMax": 4.4,
+    "BetaMin": 2.7
+  },
+  {
+    "Name": "Bobek (SI)",
+    "AlphaMax": 7.0,
+    "AlphaMin": 3.5,
+    "BetaMax": 6.1,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Celeia (SI)",
+    "AlphaMax": 6.0,
+    "AlphaMin": 3.0,
+    "BetaMax": 3.3,
+    "BetaMin": 2.0
+  },
+  {
+    "Name": "Golding (SI)",
+    "AlphaMax": 6.3,
+    "AlphaMin": 3.0,
+    "BetaMax": 4.1,
+    "BetaMin": 1.8
+  },
+  {
+    "Name": "Admiral (UK)",
+    "AlphaMax": 16.2,
+    "AlphaMin": 13.5,
+    "BetaMax": 6.0,
+    "BetaMin": 4.8
+  },
+  {
+    "Name": "Bramling Cross (UK)",
+    "AlphaMax": 7.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 3.2,
+    "BetaMin": 2.3
+  },
+  {
+    "Name": "Challenger (UK)",
+    "AlphaMax": 9.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 4.2,
+    "BetaMin": 3.2
+  },
+  {
+    "Name": "East Kent Golding (UK)",
+    "AlphaMax": 7.0,
+    "AlphaMin": 4.0,
+    "BetaMax": 2.8,
+    "BetaMin": 2.0
+  },
+  {
+    "Name": "First Gold (UK)",
+    "AlphaMax": 8.5,
+    "AlphaMin": 6.5,
+    "BetaMax": 4.0,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Fuggle (UK)",
+    "AlphaMax": 6.0,
+    "AlphaMin": 3.0,
+    "BetaMax": 3.1,
+    "BetaMin": 2.2
+  },
+  {
+    "Name": "Northdown (UK)",
+    "AlphaMax": 10.0,
+    "AlphaMin": 6.0,
+    "BetaMax": 6.2,
+    "BetaMin": 4.4
+  },
+  {
+    "Name": "Phoenix (UK)",
+    "AlphaMax": 12.0,
+    "AlphaMin": 8.0,
+    "BetaMax": 5.5,
+    "BetaMin": 4.2
+  },
+  {
+    "Name": "Pilgrim (UK)",
+    "AlphaMax": 13.0,
+    "AlphaMin": 9.0,
+    "BetaMax": 5.0,
+    "BetaMin": 4.3
+  },
+  {
+    "Name": "Pioneer (UK)",
+    "AlphaMax": 11.0,
+    "AlphaMin": 7.0,
+    "BetaMax": 4.0,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Progress (UK)",
+    "AlphaMax": 7.0,
+    "AlphaMin": 4.0,
+    "BetaMax": 2.8,
+    "BetaMin": 2.0
+  },
+  {
+    "Name": "Target (UK)",
+    "AlphaMax": 13.0,
+    "AlphaMin": 8.0,
+    "BetaMax": 5.7,
+    "BetaMin": 4.5
+  },
+  {
+    "Name": "Whitbread Golding Variety (UK)",
+    "AlphaMax": 8.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 2.7,
+    "BetaMin": 2.0
+  },
+  {
+    "Name": "Lublin (PL)",
+    "AlphaMax": 5.0,
+    "AlphaMin": 3.0,
+    "BetaMax": 4.0,
+    "BetaMin": 2.5
+  },
+  {
+    "Name": "Bullion",
+    "AlphaMax": 12.9,
+    "AlphaMin": 8.0,
+    "BetaMax": 6.0,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Ekuanot",
+    "AlphaMax": 15.5,
+    "AlphaMin": 13.0,
+    "BetaMax": 5.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Galaxy (AU)",
+    "AlphaMax": 16.0,
+    "AlphaMin": 11.6,
+    "BetaMax": 6.9,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Apollo",
+    "AlphaMax": 19.0,
+    "AlphaMin": 15.0,
+    "BetaMax": 8.0,
+    "BetaMin": 5.5
+  },
+  {
+    "Name": "Bravo",
+    "AlphaMax": 18.0,
+    "AlphaMin": 15.0,
+    "BetaMax": 5.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Mosaic",
+    "AlphaMax": 14.0,
+    "AlphaMin": 10.5,
+    "BetaMax": 4.5,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Ultra",
+    "AlphaMax": 9.7,
+    "AlphaMin": 9.4,
+    "BetaMax": 4.0,
+    "BetaMin": 3.8
+  },
+  {
+    "Name": "Super Galena",
+    "AlphaMax": 16.0,
+    "AlphaMin": 13.0,
+    "BetaMax": 10.0,
+    "BetaMin": 8.0
+  },
+  {
+    "Name": "Chelan",
+    "AlphaMax": 14.5,
+    "AlphaMin": 12.0,
+    "BetaMax": 9.8,
+    "BetaMin": 8.5
+  },
+  {
+    "Name": "Delta",
+    "AlphaMax": 7.0,
+    "AlphaMin": 5.5,
+    "BetaMax": 7.0,
+    "BetaMin": 5.5
+  },
+  {
+    "Name": "El Dorado",
+    "AlphaMax": 16.0,
+    "AlphaMin": 14.0,
+    "BetaMax": 8.0,
+    "BetaMin": 7.0
+  },
+  {
+    "Name": "HBC 291",
+    "AlphaMax": 12.0,
+    "AlphaMin": 10.0,
+    "BetaMax": 5.5,
+    "BetaMin": 4.5
+  },
+  {
+    "Name": "Azacca",
+    "AlphaMax": 16.0,
+    "AlphaMin": 14.0,
+    "BetaMax": 5.5,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Ella (AU)",
+    "AlphaMax": 16.3,
+    "AlphaMin": 13.3,
+    "BetaMax": 7.8,
+    "BetaMin": 4.8
+  },
+  {
+    "Name": "Pacific Jade",
+    "AlphaMax": 14.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 8.0,
+    "BetaMin": 7.0
+  },
+  {
+    "Name": "Cashmere",
+    "AlphaMax": 9.1,
+    "AlphaMin": 7.7,
+    "BetaMax": 7.1,
+    "BetaMin": 6.4
+  },
+  {
+    "Name": "Sladek (CZ)",
+    "AlphaMax": 9.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 11.0,
+    "BetaMin": 8.0
+  },
+  {
+    "Name": "Topaz (AU)",
+    "AlphaMax": 17.7,
+    "AlphaMin": 13.7,
+    "BetaMax": 7.9,
+    "BetaMin": 6.4
+  },
+  {
+    "Name": "Mapuche (AR)",
+    "AlphaMax": 7.0,
+    "AlphaMin": 6.0,
+    "BetaMax": 5.6,
+    "BetaMin": 5.6
+  },
+  {
+    "Name": "Waimea (NZ)",
+    "AlphaMax": 19.0,
+    "AlphaMin": 16.0,
+    "BetaMax": 9.0,
+    "BetaMin": 7.0
+  },
+  {
+    "Name": "Enigma (AU)",
+    "AlphaMax": 16.5,
+    "AlphaMin": 13.5,
+    "BetaMax": 6.4,
+    "BetaMin": 4.8
+  },
+  {
+    "Name": "Rakau (NZ)",
+    "AlphaMax": 11.0,
+    "AlphaMin": 10.0,
+    "BetaMax": 6.0,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Vic Secret (AU)",
+    "AlphaMax": 17.0,
+    "AlphaMin": 14.0,
+    "BetaMax": 7.8,
+    "BetaMin": 6.1
+  },
+  {
+    "Name": "Melba (AU)",
+    "AlphaMax": 10.0,
+    "AlphaMin": 7.0,
+    "BetaMax": 5.0,
+    "BetaMin": 2.5
+  },
+  {
+    "Name": "Lemondrop",
+    "AlphaMax": 7.0,
+    "AlphaMin": 5.0,
+    "BetaMax": 6.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Mandarina Bavaria (DE)",
+    "AlphaMax": 10.0,
+    "AlphaMin": 7.0,
+    "BetaMax": 6.5,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Eureka",
+    "AlphaMax": 19.0,
+    "AlphaMin": 18.0,
+    "BetaMax": 6.0,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Calypso",
+    "AlphaMax": 14.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 6.0,
+    "BetaMin": 5.0
+  },
+  {
+    "Name": "Premiant (CZ)",
+    "AlphaMax": 10.0,
+    "AlphaMin": 7.0,
+    "BetaMax": 5.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Gimmli (DE)",
+    "AlphaMax": 4.0,
+    "AlphaMin": 3.0,
+    "BetaMax": 4.5,
+    "BetaMin": 3.0
+  },
+  {
+    "Name": "Green Bullet (NZ)",
+    "AlphaMax": 14.0,
+    "AlphaMin": 11.0,
+    "BetaMax": 7.0,
+    "BetaMin": 6.5
+  },
+  {
+    "Name": "Jarrylo",
+    "AlphaMax": 17.0,
+    "AlphaMin": 15.0,
+    "BetaMax": 7.5,
+    "BetaMin": 6.0
+  },
+  {
+    "Name": "Dr. Rudi (NZ)",
+    "AlphaMax": 12.0,
+    "AlphaMin": 10.0,
+    "BetaMax": 8.5,
+    "BetaMin": 7.0
+  }
+]
