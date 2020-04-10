@@ -2,4 +2,4 @@
 
 from hop_export import *
 
-export('submodules/sboulema-hops/src/Hops/hops.sqlite', 'hops.json')
+export('submodules/sboulema-brewdb/brewDB.sqlite', 'hops.json')

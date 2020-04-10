@@ -10,4 +10,4 @@ fields = [
     'BetaMin',
 ]
 
-export('submodules/sboulema-hops/src/Hops/hops.sqlite', 'hops-min.json', fields)
+export('submodules/sboulema-brewdb/brewDB.sqlite', 'hops-min.json', fields)

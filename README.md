@@ -2,7 +2,8 @@
 
 A hop database in JSON format - [hops.json](hops.json).
 
-Based on the hop database from [Samir Boulema](https://github.com/sboulema/Hops).
+Based on the [BrewDB database](https://github.com/sboulema/BrewDB)
+from [Samir Boulema](https://github.com/sboulema).
 
 ## Usage
 

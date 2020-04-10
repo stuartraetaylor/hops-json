@@ -1,4 +1,4 @@
-[submodule "submodules/sboulema-hops"]
-	path = submodules/sboulema-hops
-	url = https://github.com/sboulema/Hops.git
-	branch = master
+
+[submodule "submodules/sboulema-brewdb"]
+	path = submodules/sboulema-brewdb
+	url = https://github.com/sboulema/BrewDB.git
