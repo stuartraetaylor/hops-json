@@ -789,5 +789,12 @@
     "AlphaMin": 10.0,
     "BetaMax": 8.5,
     "BetaMin": 7.0
+  },
+  {
+    "Name": "African Queen (RSA)",
+    "AlphaMax": 17.0,
+    "AlphaMin": 10.0,
+    "BetaMax": 6.0,
+    "BetaMin": 4.0
   }
 ]

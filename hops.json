@@ -2032,5 +2032,23 @@
     "TotalOilMax": 1.3,
     "TotalOilMin": 1.3,
     "Trade": " Dr. Rudi works well in single-hopped beers or in conjunction with multiple aroma varieties."
+  },
+  {
+    "Id": 114,
+    "Aroma": "Dank, blueberries, stone fruit, black currant, gooseberries, bubble gum, lemongrass, watermelon and chilies",
+    "BrewingUsage": 3,
+    "Name": "African Queen (RSA)",
+    "Pedigree": "A diploid seedling selected from a cross between 91J7/25 and an SA male 94US2/118",
+    "AlphaMax": 17.0,
+    "AlphaMin": 10.0,
+    "BetaMax": 6.0,
+    "BetaMin": 4.0,
+    "CoHumuloneMax": 27,
+    "CoHumuloneMin": 22,
+    "Info": "Daylight neutral hop. Works well with all hop-forward beers.  Also works well with Brettanomyces beers and subtle blended beers such as those with coffee, fruit, and spices.",
+    "Styles": "American and Belgian styles, modern IPAs, porters and stouts",
+    "TotalOilMax": 1.5,
+    "TotalOilMin": 0.7,
+    "Trade": "These South African hops have been highly controlled and priced exorbitantly high due to exclusivity (2018)."
   }
 ]
