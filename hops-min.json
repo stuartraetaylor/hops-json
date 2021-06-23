@@ -796,5 +796,40 @@
     "AlphaMin": 10.0,
     "BetaMax": 6.0,
     "BetaMin": 4.0
+  },
+  {
+    "Name": "Akoya",
+    "AlphaMax": 10.0,
+    "AlphaMin": 9.0,
+    "BetaMax": 5.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Aramis",
+    "AlphaMax": 8.5,
+    "AlphaMin": 6.5,
+    "BetaMax": 5.5,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "Bitter Gold",
+    "AlphaMax": 15.0,
+    "AlphaMin": 12.0,
+    "BetaMax": 6.0,
+    "BetaMin": 4.0
+  },
+  {
+    "Name": "Boadicea",
+    "AlphaMax": 9.0,
+    "AlphaMin": 8.0,
+    "BetaMax": 3.7,
+    "BetaMin": 3.5
+  },
+  {
+    "Name": "BOR (CZ)",
+    "AlphaMax": 11.0,
+    "AlphaMin": 7.0,
+    "BetaMax": 7.0,
+    "BetaMin": 4.0
   }
 ]
